@@ -84,6 +84,7 @@ Foi realizada a otimização de hiperparâmetros em **todos os modelos** (KNN, S
 ## 📁 Estrutura do Projeto
 
 heart-disease-severity-ml/
+
 │
 
 ├── README.md # Documentação do projeto
