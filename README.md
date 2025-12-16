@@ -73,7 +73,7 @@ Desenvolver e comparar modelos de **Machine Learning** para classificar a severi
 | **KNN** | Michelangelo Costa | Classificação baseada em proximidade. |
 
 ### 3. Otimização (Tuning)
-Focamos na otimização dos modelos **Random Forest** e **XGBoost** utilizando `RandomizedSearchCV` para superar o baseline da Regressão Logística, priorizando métricas como **Recall** e **F1-Score** devido à natureza crítica do diagnóstico médico.
+Foi realizada a otimização de hiperparâmetros em **todos os modelos** (KNN, SVM, Regressão Logística e Random Forest) utilizando `GridSearchCV`. O objetivo foi refinar o desempenho de cada algoritmo, buscando as melhores configurações para maximizar métricas críticas como **Recall** e **F1-Score**.
 
 ## 📈 Métricas de Avaliação
 
