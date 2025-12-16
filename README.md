@@ -86,6 +86,7 @@ Foi realizada a otimização de hiperparâmetros em **todos os modelos** (KNN, S
 heart-disease-severity-ml/
 │
 ├── README.md # Documentação do projeto
+
 └── Trabalho_Final_muilti_class.ipynb # Notebook principal com análises e modelos
 
 ## 🛠️ Dependências
